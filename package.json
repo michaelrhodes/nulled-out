@@ -1,0 +1,26 @@
+{
+  "name": "nulled-out",
+  "version": "1.0.0",
+  "description": "creates a copy on an object with nulled-out values",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelrhodes/nulled-out"
+  },
+  "keywords": [
+    "nulled-out",
+    "object"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/nulled-out/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/nulled-out",
+  "devDependencies": {
+    "tape": "~4.2.2"
+  }
+}
